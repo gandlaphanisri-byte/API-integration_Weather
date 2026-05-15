@@ -41,3 +41,5 @@ Security is also critical. The API key should not be exposed on the frontend, as
 📌 Conclusion
 
 In conclusion, API integration in a Node.js weather web page enables the application to fetch and display real-time weather information efficiently. By acting as an intermediary between the frontend and the external weather service, the Node.js server ensures secure and structured communication. This approach not only improves the functionality of the application but also enhances user experience by providing accurate and timely data. API integration is therefore an essential technique in building modern, dynamic web applications.
+#output:
+<img width="899" height="567" alt="Image" src="https://github.com/user-attachments/assets/21a042c6-5852-4861-ab01-430ea261589a" />
